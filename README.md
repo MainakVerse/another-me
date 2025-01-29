@@ -6,6 +6,8 @@ A magical AI-powered avatar generator that transforms text descriptions into stu
 
 ### OUTPUT 
 ![turgut](https://github.com/user-attachments/assets/acb56f78-11d9-41bd-8aec-029eb2df9272)
+![image](https://github.com/user-attachments/assets/932ccdd6-a883-4111-9349-492e0d7eaa9f)
+
 
 ## ✨ Features
 
