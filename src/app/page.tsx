@@ -148,7 +148,7 @@ export default function Home() {
                   {loading ? (
                     <div className="flex items-center justify-center">
                       <Wand2 className="mr-2 h-5 w-5 animate-spin text-yellow-300" />
-                      <span className="text-yellow-300">Conjuring...</span>
+                      <span className="text-yellow-300">Imagining...</span>
                     </div>
                   ) : trialInfo.triesLeft === 0 ? (
                     <div className="flex items-center justify-center">
