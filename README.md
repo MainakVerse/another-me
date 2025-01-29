@@ -1,6 +1,6 @@
 # AI Avatar Generator
 
-A magical AI-powered avatar generator that transforms text descriptions into stunning, personalized digital avatars. Built with Next.js and integrated with advanced AI models.
+An AI-powered avatar generator that transforms text descriptions into stunning, personalized digital avatars. Leverages the power of cutting edge Generative AI
 
 **Prompt**: *`Create a 3D  avatar of a Turkish General with white skin, black beard, wearing a metal helmet, black robe, holding a black metal axe`*
 
