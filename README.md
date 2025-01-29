@@ -5,13 +5,12 @@ A magical AI-powered avatar generator that transforms text descriptions into stu
 **Prompt**: *`Create a 3D  avatar of a smiling man with brown skin, black beard, red turban, red kurta, brown shawl, warm brown eyes, on a soft red gradient background`*
 
 ### OUTPUT 
-![WhatsApp Image 2024-12-01 at 12 23 58_6abb2306](https://github.com/user-attachments/assets/a0560e01-2ee0-495c-b96b-fe5e80d56d50)
+![turgut](https://github.com/user-attachments/assets/acb56f78-11d9-41bd-8aec-029eb2df9272)
 
 ## ✨ Features
 
 - Text-to-avatar generation
 - Magical UI/UX design
-- Daily generation limits (4 per day)
 - One-click avatar downloads
 - Real-time generation status
 - Error handling and retry mechanisms
@@ -19,9 +18,9 @@ A magical AI-powered avatar generator that transforms text descriptions into stu
 ## 🚀 Tech Stack
 
 - **Frontend**: Next.js 14, React, TypeScript
-- **Styling**: Tailwind CSS, Shadcn UI
+- **Styling**: Tailwind CSS, Shadcn UI, Framer
 - **AI Integration**: Gradio Client
-- **Deployment**: Vercel
+- **Deployment**: Netlify
 
 ## 🛠️ Prerequisites
 
@@ -29,37 +28,6 @@ Before you begin, ensure you have:
 - Node.js (version 18 or higher)
 - npm or yarn package manager
 
-## 📦 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/ahkamboh/avatar-generator.git
-cd avatar-generator
-```
-
-2. Install dependencies:
-```bash
-npm install
-# or
-yarn install
-```
-
-3. Create a `.env.local` file:
-```env
-NEXT_PUBLIC_APP_URL=http://localhost:3000
-```
-
-## 🏃‍♂️ Running the Application
-
-Start the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) to view the application.
 
 ## 🌟 Usage
 
@@ -71,6 +39,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 ## ⚡ Usage Limits
 
 - 4 avatar generations per day per user
+- After 4 generations are over, open in a new incognito tab and keep using
 - Resets at midnight local time
 - Maximum processing time: 30 seconds per generation
 
@@ -82,24 +51,3 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 - **Responsive Design**: Works on all devices
 - **Real-time Status**: Live generation progress updates
 
-## 👥 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 👨‍💻 Author
-
-- Ali Hamza Kamboh ([@ahkamboh](https://github.com/ahkamboh))
-
-## 📄 License
-
-MIT License
-
-## 🙏 Acknowledgments
-
-- Next.js framework by Vercel
-- Shadcn UI for components
-- Apple Memoji model integration
-
----
-
-Made with ❤️ by Ali Hamza Kamboh
